@@ -1,6 +1,7 @@
 📊 Student Feedback Analysis Dashboard (Power BI)
 
-📌 Project Overview ,
+📌 Project Overview 
+
 This project focuses on analyzing student feedback data to evaluate teaching effectiveness and course quality using Power BI.
 The dashboard transforms raw student ratings into actionable insights that help identify strengths, gaps, and improvement areas in teaching and course design.
 
